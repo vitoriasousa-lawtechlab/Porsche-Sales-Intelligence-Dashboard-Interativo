@@ -1,7 +1,8 @@
 **Porsche Sales Intelligence — Dashboard Interativo**
 Dashboard em HTML, CSS e JavaScript, desenvolvido para o desafio da DIO Criando Agentes de Tratamento de Dados. O projeto apresenta 100 registros de vendas de veículos Porsche em um painel responsivo e publicável no GitHub Pages.
-**Acesse o dashboard**
 
+**Acesse o dashboard**
+https://github.com/vitoriasousa-lawtechlab/Porsche-Sales-Intelligence-Dashboard-Interativo/blob/main/index.html
 **Perguntas de negócio**
 - Onde estão concentradas as receitas? Gráfico das sete unidades federativas com maior receita, para identificar mercados prioritários.
 - Quais modelos vendem mais? Gráfico dos sete modelos com mais transações, para analisar preferências de produto.
