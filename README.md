@@ -3,6 +3,7 @@ Dashboard em HTML, CSS e JavaScript, desenvolvido para o desafio da DIO Criando 
 
 **Acesse o dashboard**
 https://github.com/vitoriasousa-lawtechlab/Porsche-Sales-Intelligence-Dashboard-Interativo/blob/main/index.html
+
 **Perguntas de negócio**
 - Onde estão concentradas as receitas? Gráfico das sete unidades federativas com maior receita, para identificar mercados prioritários.
 - Quais modelos vendem mais? Gráfico dos sete modelos com mais transações, para analisar preferências de produto.
